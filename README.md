@@ -1,1 +1,1 @@
-this repository is the source of blog
+this repository is the source of blog.
